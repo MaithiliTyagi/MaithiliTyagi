@@ -25,6 +25,5 @@ I consider myself a responsible and orderly individual. I am eager to learn abou
 ## Certifications
 - Student Member of Indian Society for Technical Education (ISTE) (2024-2027)
 
-## Skills
-### Hard Skills:
+## Technical Skills
  C, Python, HTML ,CSS, JS
