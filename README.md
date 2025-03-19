@@ -3,7 +3,6 @@
 Bhubaneswar, India  
 [Email: tyagimaithili918@gmail.com](mailto:tyagimaithili918@gmail.com)  
 [LinkedIn Profile](https://www.linkedin.com/in/maithili-tyagi-266a77286)  
-Phone: +916281848223
 
 ## Profile
 I consider myself a responsible and orderly individual. I am eager to learn about and grow in the IT industry.
@@ -28,12 +27,4 @@ I consider myself a responsible and orderly individual. I am eager to learn abou
 
 ## Skills
 ### Hard Skills:
-- C
-- Python
-- Microsoft Excel, PowerPoint
-
-### Soft Skills:
-- Honest
-- Hardworking
-- Good Communication Skills
-- Dedicated
+ C, Python, HTML ,CSS, JS
