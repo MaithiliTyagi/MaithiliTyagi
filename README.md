@@ -9,7 +9,7 @@ I consider myself a responsible and orderly individual. I am eager to learn abou
 
 ## Education
 - **B.Tech in Electrical Engineering**, KIIT University (2023-2027)  
-  CGPA: 8.31  
+  CGPA: 8.61  
 - **12th Standard (PCM)**, FIITJEE Junior College (2021-2023)
 - **10th Standard (All Subjects)**, FIITJEE World School (2018-2021)
 
