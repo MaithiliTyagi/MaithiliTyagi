@@ -3,6 +3,7 @@
 Bhubaneswar, India  
 [Email: tyagimaithili918@gmail.com](mailto:tyagimaithili918@gmail.com)  
 [LinkedIn Profile](https://www.linkedin.com/in/maithili-tyagi-266a77286)  
+[My Portfolio here](https://maithili-tyagi-web.vercel.app/)
 
 ## Profile
 I consider myself a responsible and orderly individual. I am eager to learn about and grow in the IT industry.
